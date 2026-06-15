@@ -31,9 +31,9 @@ from a DIPPID Sensor based on a runtime changable value (alpha).
 
 Simply point the camera at a Aruco-Board and move a Marker with id 5 around.
 
-Controls:
-UP:    Increase alpha by 0.01
-RIGHT: Increase alpha by 0.1
-DOWN:  Decrease alpha by 0.01
-LEFTP: Decrease alpha by 0.1
-Q: Exit application
+Controls:<br>
+`UP`:    Increase alpha by 0.01<br>
+`RIGHT`: Increase alpha by 0.1<br>
+`DOWN`:  Decrease alpha by 0.01<br>
+`LEFT`: Decrease alpha by 0.1<br>
+`Q`: Exit application
